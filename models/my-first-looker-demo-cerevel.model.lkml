@@ -28,3 +28,5 @@ persist_with: my-first-looker-demo-cerevel_default_datagroup
 # Each joined view also needs to define a primary key.
 
 explore: clinical_data {}
+explore:  site_monitoring_stg{}
+explore:  synoes_stg{}
